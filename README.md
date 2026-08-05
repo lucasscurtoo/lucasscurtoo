@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/lucascurto.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=9FEF00)](https://lucascurto.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=9FEF00)](https://lucas-curto-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9FEF00)](https://www.linkedin.com/in/lucas-curto/)
 [![Email](https://img.shields.io/badge/lucascurtoo@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=9FEF00)](mailto:lucascurtoo@gmail.com)
 
