@@ -81,6 +81,16 @@ const developer = {
 
 <br/>
 
+## 🎓 Certifications
+
+- **Claude Code in Action** — Anthropic
+- **Claude Code 101** — Anthropic
+- **Introduction to Model Context Protocol** — Anthropic
+- **NestJS + Microservicios: Aplicaciones escalables y modulares** — Udemy · DevTalles — [verify](https://ude.my/UC-fbf47543-bf67-49c5-8207-3597f18cc705)
+- **Complete Web & Mobile Designer: UI/UX, Figma +more** — Udemy — [verify](https://ude.my/UC-7cec8111-768a-48ec-9bf1-8287ba9af6af)
+
+<br/>
+
 ## 📟 Now
 
 - 🏢 Mid-level Software Developer @ **Global Assist** — DDD migrations, real-time dashboards, zero-downtime deploys
