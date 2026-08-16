@@ -101,8 +101,6 @@ const developer = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasscurtoo&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&ring_color=9FEF00)
-
 <sub>`// siempre aprendiendo, siempre construyendo`</sub>
 
 </div>
