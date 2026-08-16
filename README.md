@@ -83,9 +83,9 @@ const developer = {
 
 ## 🎓 Certifications
 
-- **Claude Code in Action** — Anthropic
-- **Claude Code 101** — Anthropic
-- **Introduction to Model Context Protocol** — Anthropic
+- **Claude Code in Action** — Anthropic — [verify](https://verify.skilljar.com/c/qh85vsb8bzfr)
+- **Claude Code 101** — Anthropic — [verify](https://verify.skilljar.com/c/8jzh253kuxde)
+- **Introduction to Model Context Protocol** — Anthropic — [verify](https://verify.skilljar.com/c/fsk4horbo8af)
 - **NestJS + Microservicios: Aplicaciones escalables y modulares** — Udemy · DevTalles — [verify](https://ude.my/UC-fbf47543-bf67-49c5-8207-3597f18cc705)
 - **Complete Web & Mobile Designer: UI/UX, Figma +more** — Udemy — [verify](https://ude.my/UC-7cec8111-768a-48ec-9bf1-8287ba9af6af)
 
