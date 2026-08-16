@@ -93,7 +93,8 @@ const developer = {
 
 ## 📟 Now
 
-- 🏢 Mid-level Software Developer @ **Global Assist** — DDD migrations, real-time dashboards, zero-downtime deploys
+- 🚀 Founder & Solo Developer — AI side projects: conversational voice platform (ElevenLabs, SIP telephony) & AI order-taking platform
+- 🏢 Full-Stack Developer @ **Global Assist** — DDD migrations, real-time dashboards, zero-downtime deploys
 - 🎓 Computer Engineering @ **FING, UDELAR**
 - 🔭 Building **[Varel](https://varel.uy)** — my own e-commerce, self-hosted
 
