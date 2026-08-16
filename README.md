@@ -49,6 +49,7 @@ const developer = {
 |---------|-----------|-------|
 | **[AgenticNotch](https://github.com/lucasscurtoo/AgenticNotch)** | Turns the MacBook notch into a monitor for Claude Code and Codex — a card when a run finishes, a chime, and the last runs kept in history. Fork of boring.notch | Swift · SwiftUI · macOS |
 | **[nestjs-ddd-doctor](https://github.com/lucasscurtoo/nestjs-ddd-doctor)** | One `npx` grades where a NestJS codebase leaks its layer boundaries, then hands the findings to your AI to fix. No install, no dependencies | TypeScript · Node · CLI · npm |
+| **[microservices-k8s-case-study](https://github.com/lucasscurtoo/microservices-k8s-case-study)** | URL shortener split into 3 NestJS microservices on Kubernetes — Redis cache, async events over NATS, StatefulSets with PVCs | NestJS · Kubernetes · NATS · Redis · PostgreSQL |
 
 <br/>
 
